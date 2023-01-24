@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋, I'm Muh Yusril
 
-<!--
-**Sansekai/sansekai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=sansekai&style=flat&color=blueviolet)<br>
+<a href="https://instagram.com/yusril.id_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://nikkixploit.blogspot.com/"><img src="https://img.shields.io/badge/Blog-FF8800.svg?&style=flat&logo=blogger&logoColor=white" alt="Instagram"></a>
+<a href="https://facebook.com/nikkixploit"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
 
-Here are some ideas to get you started:
+🔭 I’m currently working on nothing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![@sansekai's Holopin board](https://holopin.me/sansekai)](https://holopin.io/@sansekai)
+
+![Sansekai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sansekai&show_icons=true&theme=tokyonight)
+
+![Sansekai's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sansekai&theme=tokyonight&hide_border=false&layout=compact)
