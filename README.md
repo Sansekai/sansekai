@@ -7,8 +7,6 @@
 
 🔭 I’m currently working on nothing
 
-[![@sansekai's Holopin board](https://holopin.me/sansekai)](https://holopin.io/@sansekai)
-
-![Sansekai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sansekai&show_icons=true&theme=tokyonight)
-
+[![@sansekai's Holopin board](https://holopin.me/sansekai)](https://holopin.io/@sansekai)<br>
+![Sansekai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sansekai&show_icons=true&theme=tokyonight)<br>
 ![Sansekai's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sansekai&theme=tokyonight&hide_border=false&layout=compact)
