@@ -2,8 +2,8 @@
 
 ![Sansekai's Profile views](https://komarev.com/ghpvc/?username=sansekai&style=flat&color=blueviolet)<br>
 
-🔭 I’m currently working on nothing
-💻 Relevant skills: Web Scraping, BOT Automation Tools
+- 🔭 I’m currently working on nothing
+- 💻 Relevant skills: Web Scraping, BOT Automation Tools
 
 ![Sansekai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sansekai&show_icons=true&theme=tokyonight)<br>
 ![Sansekai's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sansekai&theme=tokyonight&hide_border=false&layout=compact)
